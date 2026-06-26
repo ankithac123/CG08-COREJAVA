@@ -6,7 +6,7 @@ package packages;
 	                System.out.println("welcome to java");
 	        }
 	        public static void main(String[] args) {
-	                System.out.println("welcome to python");
+	                System.out.println("welcome to helloword");
 	        }
 	}
  
