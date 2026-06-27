@@ -1,8 +1,6 @@
 package packages;
 
 public class immutabledemo {
-
-
 public static void main(String[] args) {
        String str1="sachin";
        String str2=str1;
