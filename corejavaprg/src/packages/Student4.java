@@ -24,8 +24,8 @@ public class Student4 {
         }
         public static void main(String[] args) {
                 Student4.Change();
-                Student4  s1=new Student4 (1,"rashmi");
-                Student4  s2=new Student4 (2,"sushma");
+                Student4  s1=new Student4 (1,"Ankitha");
+                Student4  s2=new Student4 (2,"shreya");
                 Student4  s3=new Student4 (3,"mamatha");
                 Student4  s4=new Student4 (4,"rohith");
                 
